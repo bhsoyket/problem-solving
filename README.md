@@ -1,3 +1,3 @@
 # problem-solving
 
-## Archiving My solved problem solution.
+## Archiving My solved problems solutions.
